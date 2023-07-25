@@ -1,6 +1,6 @@
 {
   "name": "array-utils-mayur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array_utils : A Comprehensive collection of powerfull array utility functions for javascript developer, simiplify your Array operations with functions for sum, average, max, min, removing duplicates, finding unique elements, and merging array without duplicates ",
   "main": "array-utils-by-mayur.js",
   "scripts": {
